@@ -20,5 +20,3 @@ Buscando aprender, criar projetos práticos e compartilhar conhecimento..
 <img alt="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ---
-
-## ⭐ GitHub Stats
