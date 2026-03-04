@@ -1,7 +1,7 @@
 ## Olá, meu nome é João Lucas
 
-Atualmente cursando Análise e Desenvolvimento de sistemas.
-Buscando aprender, criar projetos práticos e compartilhar conhecimento..
+Desenvolvedor em formação, focado em back-end com Java, Python e MySQL, construindo projetos práticos voltados a soluções reais.
+PT-BR / EN
 
 💬 Entre em contato.
 
@@ -16,7 +16,9 @@ Buscando aprender, criar projetos práticos e compartilhar conhecimento..
 
 ## 🚀 Minhas Skills
 
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<img alt="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"  width="40"/></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 
 ---
